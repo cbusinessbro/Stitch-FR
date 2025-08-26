@@ -759,11 +759,11 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Questions Fréquentes",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
-        "answer_time": "Temps moyen de réponse : 24h",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
