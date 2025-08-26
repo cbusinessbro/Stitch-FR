@@ -22,9 +22,9 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "icon_color": "#1e2833",
+            "title": "LIVRAISON OFFERTE",
+            "content": ""
           }
         },
         "customer-support": {
@@ -35,22 +35,22 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "icon_color": "#1e2833",
+            "title": "SUPPORT CLIENT 24/7",
+            "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-love",
             "mobile_icon_width": 36,
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "icon_color": "#1e2833",
+            "title": "SATISFAIT OU REMBOURSÉ 30 JOURS",
+            "content": ""
           }
         },
         "payment": {
@@ -61,9 +61,9 @@
             "icon_width": 36,
             "icon_background_type": "none",
             "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "icon_color": "#1e2833",
+            "title": "PAIEMENT SÉCURISÉ",
+            "content": ""
           }
         }
       },
