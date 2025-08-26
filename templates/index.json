@@ -184,6 +184,12 @@
             "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .blink {\n      animation: blink-animation 1.5s steps(5, start) infinite;\n      color: red;\n      display: inline-block;\n      vertical-align: middle;\n      font-size: 10px;\n    }\n    @keyframes blink-animation {\n      to {\n        visibility: hidden;\n      }\n    }\n    .red-div {\n      background-color: #ffcccc;\n      padding: 2px 10px;\n      border-radius: 8px;\n      display: inline-block;\n      text-align: center;\n      margin: 0 auto;\n    }\n    .text {\n      display: inline-block;\n      vertical-align: middle;\n      margin-left: 10px;\n      color: #AD0000;\n      font-weight: 500;\n      font-size: 12px;\n      text-align: justify;\n    }\n  </style>\n\n  <div class=\"red-div\">\n    <div class=\"blink\">●</div>\n    <div class=\"text\">Forte demande – Plus que 4 exemplaires en stock</div>\n  </div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_LxcfGQ": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "description_PErkAi": {
           "type": "description",
           "disabled": true,
@@ -260,6 +266,7 @@
         "liquid_caAqLt",
         "liquid_Cm6eag",
         "liquid_fRth6q",
+        "kaching_bundles_app_block_LxcfGQ",
         "description_PErkAi",
         "variant_picker_Cchge8",
         "quantity_selector_ApbciN",
