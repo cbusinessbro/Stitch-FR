@@ -229,7 +229,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": " Garantie & Retour ",
-            "content": "<p>➡️ Testez pendant 30 jours – satisfait ou remboursé, sans risque</p><p>➡️ Besoin d’aide ? Contactez notre support – nous nous occupons de tout !</p>",
+            "content": "<p>➡️ <strong>Testez pendant 30 jours</strong> – Satisfait ou remboursé, sans risque</p><p>➡️ <strong>Besoin d’aide ?</strong> - Contactez notre support – nous nous occupons de tout !</p>",
             "page": ""
           }
         }
