@@ -493,6 +493,65 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_DhEcBf": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": " Un compagnon doux et apaisant ",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#1e2833",
+        "text_gradient": ""
+      }
+    },
+    "slideshow_hNEdeb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Ezp4H9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Breathing_Buddy_-_Stitch_Lila_1_1.webp",
+            "mobile_image": "shopify://shop_images/Breathing_Buddy_-_Stitch_Lila_1_1.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Ezp4H9"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "media_with_text_Yp7ymx": {
       "type": "media-with-text",
       "blocks": {
@@ -591,6 +650,8 @@
     "image_link_blocks_YBiyKK",
     "press_RcKDrB",
     "media_with_text_xRYnyK",
+    "scrolling_text_DhEcBf",
+    "slideshow_hNEdeb",
     "media_with_text_Yp7ymx",
     "faq"
   ]
