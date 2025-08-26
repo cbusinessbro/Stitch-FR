@@ -515,6 +515,78 @@
         "text_gradient": ""
       }
     },
+    "multi_column_jKrFJN": {
+      "type": "multi-column",
+      "blocks": {
+        "item_my6F6e": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7W8gqV": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9jxzw9": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ci9kmn": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_my6F6e",
+        "item_7W8gqV",
+        "item_9jxzw9",
+        "item_ci9kmn"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_hNEdeb": {
       "type": "slideshow",
       "blocks": {
@@ -657,6 +729,7 @@
     "press_RcKDrB",
     "media_with_text_xRYnyK",
     "scrolling_text_DhEcBf",
+    "multi_column_jKrFJN",
     "slideshow_hNEdeb",
     "media_with_text_Yp7ymx",
     "faq"
