@@ -175,6 +175,7 @@
       "blocks": {
         "text_X3i7jp": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Share some content to your customers about your products.</p>"
           }
@@ -182,18 +183,6 @@
         "badges_zLPbny": {
           "type": "badges",
           "settings": {}
-        },
-        "price_jzfMbn": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_YA3Jk9": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
         },
         "description_PErkAi": {
           "type": "description",
@@ -262,8 +251,6 @@
       "block_order": [
         "text_X3i7jp",
         "badges_zLPbny",
-        "price_jzfMbn",
-        "rating_YA3Jk9",
         "description_PErkAi",
         "variant_picker_Cchge8",
         "quantity_selector_ApbciN",
