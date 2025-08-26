@@ -743,8 +743,8 @@
         "item_AiweWq": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-il également utile pour les adultes ?",
+            "content": "<p>Oui ! De nombreux adultes l’utilisent pour réduire le stress, faciliter l’endormissement ou simplement comme rituel de relaxation.</p>"
           }
         }
       },
