@@ -218,8 +218,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": " Combien de temps dure la livraison ?",
+            "content": "<p><strong>Nous préparons votre commande sous 24 heures.</strong></p><p>La livraison prend entre <strong>4 et 10 jours ouvrables</strong>, selon votre localisation et la disponibilité en stock (beaucoup de commandes en ce moment 💙).</p><p>👉 Vous recevrez un lien de suivi en temps réel, et nous travaillons uniquement avec des partenaires d’expédition durables.</p>",
             "page": ""
           }
         },
@@ -228,8 +228,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": " Garantie & Retour ",
+            "content": "<p>➡️ Testez pendant 30 jours – satisfait ou remboursé, sans risque</p><p>➡️ Besoin d’aide ? Contactez notre support – nous nous occupons de tout !</p>",
             "page": ""
           }
         }
