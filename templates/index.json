@@ -450,8 +450,8 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Anna F.",
+            "content": " Mon fils l’a adoré dès le premier instant ! Une lumière douce, parfaite pour s’endormir sans peur.",
             "show_rating": true,
             "rating": 5
           }
@@ -460,7 +460,7 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Laura T.",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
             "rating": 4
@@ -470,7 +470,7 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
+            "author": "Lucas D.",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
             "rating": 5
