@@ -163,7 +163,13 @@
         "liquid_LyqATc": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div style=\"background-color: #f5f5f5; padding: 6px 10px; text-align: center; border-radius: 8px; margin: 0; line-height: 1;\">\n    <span style=\"font-size: 14px; font-weight: bold; color: #333; letter-spacing: 0.5px;\">\n      #1 SOLUTION POUR UN SOMMEIL RÉPARATEUR CHEZ LES ENFANTS 2025 🇫🇷\n    </span>\n</div>"
+          }
+        },
+        "liquid_caAqLt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"main-product__block main-product__block-custom_liquid\">\n      <div class=\"m-product-text\">\n        <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"product-info__liquid\">\n              <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n                <span class=\"text-size\"><b>4,8/5</b> sur 1 926 avis</span>\n              </a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>"
           }
         },
         "description_PErkAi": {
@@ -239,6 +245,7 @@
       "block_order": [
         "text_X3i7jp",
         "liquid_LyqATc",
+        "liquid_caAqLt",
         "description_PErkAi",
         "variant_picker_Cchge8",
         "quantity_selector_ApbciN",
