@@ -160,9 +160,11 @@
             "text": "<h4>StitchCalm : Un compagnon magique pour des nuits paisibles </h4>"
           }
         },
-        "badges_zLPbny": {
-          "type": "badges",
-          "settings": {}
+        "liquid_LyqATc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "description_PErkAi": {
           "type": "description",
@@ -236,7 +238,7 @@
       },
       "block_order": [
         "text_X3i7jp",
-        "badges_zLPbny",
+        "liquid_LyqATc",
         "description_PErkAi",
         "variant_picker_Cchge8",
         "quantity_selector_ApbciN",
