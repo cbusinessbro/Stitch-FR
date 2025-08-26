@@ -521,6 +521,7 @@
         "item_my6F6e": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/reelUp_2v3k3omsrgk1731523180615_low.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -533,6 +534,7 @@
         "item_7W8gqV": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/reelUp_x9yjxfr5ryd1731523180618_original.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -545,6 +547,7 @@
         "item_9jxzw9": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/reelUp_s21gsm0r7lm1731523180615_low.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
@@ -557,6 +560,7 @@
         "item_ci9kmn": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/reelUp_zxp97imsdt1731523180617_original.mp4",
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
