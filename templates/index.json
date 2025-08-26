@@ -178,6 +178,12 @@
             "liquid": "<div class=\"product-info__liquid\">\n  <style>\n    .benefits-container {\n      padding: 0;\n    }\n\n    .benefit-item {\n      display: flex;\n      align-items: center;\n      margin: 10px 0;\n      padding: 0;\n    }\n\n    .benefit-icon {\n      width: 20px;\n      height: 20px;\n      border-radius: 50%;\n      background: #7fb3d3;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      margin-right: 12px;\n      flex-shrink: 0;\n      margin-top: 2px;\n    }\n\n    .benefit-icon::after {\n      content: \"✓\";\n      color: white;\n      font-weight: bold;\n      font-size: 12px;\n    }\n\n    .benefit-text {\n      font-size: 12px; /* Texte réduit */\n      color: #2c3e50;\n      font-weight: 400;\n    }\n\n    .benefit-bold {\n      font-weight: 700;\n      color: #34495e;\n      font-size: 13px; /* Texte en gras légèrement plus grand */\n    }\n\n    .title {\n      display: none;\n    }\n  </style>\n\n  <div class=\"benefits-container\">\n    <div class=\"title\">Avantages TraumStitch™</div>\n    \n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Un design doux, <span class=\"benefit-bold\">moelleux et apaisant</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Apaise grâce à sa <span class=\"benefit-bold\">respiration</span> et sa <span class=\"benefit-bold\">mélodie relaxante</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Facilite le <span class=\"benefit-bold\">sommeil en quelques minutes</span>.</div>\n    </div>\n\n    <div class=\"benefit-item\">\n      <div class=\"benefit-icon\"></div>\n      <div class=\"benefit-text\">Un <span class=\"benefit-bold\">rituel du soir relaxant</span> pour petits et grands.</div>\n    </div>\n  </div>\n</div>"
           }
         },
+        "liquid_fRth6q": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 10px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px;\n    border-radius: 8px;\n    display: inline-block;\n    text-align: center;\n    margin: 0 auto;\n  }\n  .text {\n    display: inline-block;\n    vertical-align: middle;\n    margin-left: 10px;\n    color: #AD0000;\n    font-weight: 500;\n    font-size: 12px;\n    text-align: justify;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Hohe Nachfrage - Nur noch 4 Stück auf Lager</div>\n</div>\n          </div>"
+          }
+        },
         "description_PErkAi": {
           "type": "description",
           "disabled": true,
@@ -253,6 +259,7 @@
         "liquid_LyqATc",
         "liquid_caAqLt",
         "liquid_Cm6eag",
+        "liquid_fRth6q",
         "description_PErkAi",
         "variant_picker_Cchge8",
         "quantity_selector_ApbciN",
