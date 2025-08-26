@@ -34,12 +34,20 @@
             "text": "OFFRE DE LA RENTRÉE : -50% DE RÉDUCTION !",
             "url": ""
           }
+        },
+        "message_4nzCgG": {
+          "type": "message",
+          "settings": {
+            "text": "+ DE 1,900 CLIENTS SATISFAITS",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_PEQf64",
-        "message_Qh8X4G"
+        "message_Qh8X4G",
+        "message_4nzCgG"
       ],
       "settings": {
         "enable_sticky": false,
