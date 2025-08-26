@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-nous",
-            "content": "<p>Notre service client est à votre disposition :<br/><br/>Du lundi au samedi, de 09h00 à 18h00.</p><p>Vous pouvez nous contacter à tout moment par e-mail à : <strong>contact@stitchcalm.fr</strong></p><p>Nous répondons généralement sous 24 heures.</p>",
+            "content": "<p>Notre service client est à votre disposition :<br/><br/>Du lundi au samedi, de 09h00 à 18h00.</p><p>Vous pouvez nous contacter à tout moment par e-mail à : <strong>hello@stitchcalm.fr</strong></p><p>Nous répondons généralement sous 24 heures.</p>",
             "enable_follow_on_shop": false
           }
         }
