@@ -98,7 +98,7 @@
         "full_width": true,
         "stack_mobile": true,
         "title": "",
-        "content": "<p>RECOMMANDÉ PAR :</p>",
+        "content": "<h6>RECOMMANDÉ PAR :</h6>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
