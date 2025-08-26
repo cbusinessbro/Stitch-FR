@@ -98,7 +98,7 @@
         "full_width": true,
         "stack_mobile": true,
         "title": "",
-        "content": "",
+        "content": "<p>RECOMMANDÉ PAR :</p>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
@@ -259,6 +259,158 @@
         "input_text_color": ""
       }
     },
+    "rich_text_6Hch34": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6wWnq8": {
+          "type": "heading",
+          "settings": {
+            "text": " Adopté par plus de 10,000 familles ",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6wWnq8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_YBiyKK": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_YcUcCL": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_yahcUL": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HzFYGG": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LJ8tiQ": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_YcUcCL",
+        "item_yahcUL",
+        "item_HzFYGG",
+        "item_LJ8tiQ"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "press_RcKDrB": {
+      "type": "press",
+      "blocks": {
+        "quote_RagKzR": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_inMpxr": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_ppGWr8": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_RagKzR",
+        "quote_inMpxr",
+        "quote_ppGWr8"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -317,6 +469,9 @@
     "logo_list_ExKxYy",
     "slideshow_bKMhmg",
     "featured_product_zTdHRE",
+    "rich_text_6Hch34",
+    "image_link_blocks_YBiyKK",
+    "press_RcKDrB",
     "faq"
   ]
 }
