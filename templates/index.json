@@ -156,9 +156,8 @@
       "blocks": {
         "text_X3i7jp": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Share some content to your customers about your products.</p>"
+            "text": "<h4>StitchCalm : Un compagnon magique pour des nuits paisibles </h4>"
           }
         },
         "badges_zLPbny": {
