@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Notre service client est à votre disposition :<br/><br/>Du lundi au samedi, de 09h00 à 18h00.</p><p>Vous pouvez nous contacter à tout moment par e-mail à : contact@stitchcalm.fr</p><p>Nous répondons généralement sous 24 heures.</p>",
             "enable_follow_on_shop": false
           }
         }
